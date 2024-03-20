@@ -1,0 +1,23 @@
+{
+  "name": "db-backpack-downloader",
+  "version": "1.0.0",
+  "description": "Download and manage database backups with ease, ensuring data security and availability.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecoechoeco/db-backpack-downloader"
+  },
+  "author": "ecoechoeco",
+  "license": "MIT",
+  "dependencies": {
+    "db-backpack-suite": "1.0.0",
+    "db-backpack-downloader": "1.0.0",
+    "firebase": "1.0.0",
+    "webpack-cli": "1.0.0",
+    "nodemon": "1.0.0",
+    "enzyme": "1.0.0"
+  }
+}
